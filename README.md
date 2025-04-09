@@ -1,15 +1,17 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Olá, sou José Neto!</h2>
 
 ###
 
 <p align="left">🎓 - Graduando em Análise e Desenvolvimento de Sistemas no IFPB – Campus Cajazeiras-PB.<br>💡 - Apaixonado por resolver problemas e contribuir com soluções que geram impacto real.<br>🤝 - Acredito no poder da partilha de conhecimento para transformar pessoas e projetos. <br>✝️ - Cristão católico: acredito que a fé pode transformar vidas.
 </p>
 
-###
+  ### Meus contatos:
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-vieira-916759210/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josevieira2029@gmail.com)
+  
 
 <h2 align="left">Tecnologias</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -44,14 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseNeto-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="left">Contatos</h2>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
-
-###
 
