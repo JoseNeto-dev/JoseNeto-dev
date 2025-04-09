@@ -2,11 +2,12 @@
 
 ###
 
-<p align="left">🎓 - Graduando em Análise e Desenvolvimento de Sistemas no IFPB – Campus Cajazeiras-PB.<br>💡 - Apaixonado por resolver problemas e contribuir com soluções que geram impacto real.<br>🤝 - Acredito no poder da partilha de conhecimento para transformar pessoas e projetos.</p>
+<p align="left">🎓 - Graduando em Análise e Desenvolvimento de Sistemas no IFPB – Campus Cajazeiras-PB.<br>💡 - Apaixonado por resolver problemas e contribuir com soluções que geram impacto real.<br>🤝 - Acredito no poder da partilha de conhecimento para transformar pessoas e projetos. <br>✝️ - Cristão católico: acredito que a fé pode transformar vidas.
+</p>
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -43,12 +44,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseNeto-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseNeto-dev/JoseNeto-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseNeto-dev/JoseNeto-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseNeto-dev/JoseNeto-dev/output/pacman-contribution-graph.svg">
-</picture>
+<h2 align="left">Contatos</h2>
 
 ###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
+
+###
+
